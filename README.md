@@ -1,6 +1,6 @@
 # Coca Cola Website
-## Live Preview
-You can view the live preview of this website [here](https://gyanendu01.github.io/HTML-CSS-PROJECT-05/).
+## Preview
+You can view the this website by running the index.html file.
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Any improvements, bug fixes, or new features are welcome!
